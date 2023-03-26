@@ -1,2 +1,2 @@
 # java
-this is my jva lab expirement
+this is my java lab expirement
