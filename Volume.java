@@ -51,7 +51,7 @@ public  static void main(String []args)
            break;
          }
          default :
-         {System.out.println("nallonam adik myre");
+         {System.out.println("error");
         }
       }
 
